@@ -1,5 +1,5 @@
 # A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras
-This implementation builds a deep convolutional neural network to classify images in the CIFAR10 dataset, using 15% of the data for testing. The training duration is reported, and the accuracy and loss of the model are displayed for the training and validation data using a graph. Additionally, the prediction accuracy is reported on the test data.
+This implementation builds a convolutional neural network to classify images in the CIFAR10 dataset, using 15% of the data for testing. The training duration is reported, and the accuracy and loss of the model are displayed for the training and validation data using a graph. Additionally, the prediction accuracy is reported on the test data.
 
 Next, the performance of two different learning rate schedulers, Exponential and OneCycle, are compared over 50 epochs.
 
